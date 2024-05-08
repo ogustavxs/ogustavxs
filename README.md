@@ -10,8 +10,9 @@
 
 ###
 
-<p align="left">🕵️‍♂️ - Me chamo Gustavo<br>📖 - 3° Ano do Ensino Médio -> Curso técnico em Administração
-<br>🎥 - Amante da MARVEL</p>
+- 🕵️‍♂️ Me chamo Gustavo
+- 📖 3° Ano do Ensino Médio
+- 🎥 Amante da MARVEL
 
 ###
 
@@ -19,8 +20,8 @@
 
 ###
 
-<p align="left">🐍 - Aprendiz em PYTHON
-<br>📐 - Monitoria de Matemática</p>
+- 🐍 Aprendiz em PYTHON
+- 📐 Matemática
 
 ###
 
