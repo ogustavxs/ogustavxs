@@ -1,4 +1,4 @@
-<h1 align="left">Seja bem vindo ao meu perfil!</h1>
+<h1 align="left">Seja bem-vindo ao meu perfil!</h1>
 
 ###
 
@@ -20,10 +20,10 @@
 ###
 
 <p align="left">🐍 - Aprendiz em PYTHON
-<br>📐 - Monitoria de Matematica</p>
+<br>📐 - Monitoria de Matemática</p>
 
 ###
 
-<div align="left" style="display: inline-block; vertical-align: middle; line-height: 0px;">
+<div align="left" style="display: inline-block; vertical-align: middle; line-height: 0;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
