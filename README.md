@@ -10,9 +10,11 @@
 
 ###
 
-- 🕵️‍♂️ Me chamo Gustavo
-- 📖 3° Ano do Ensino Médio
-- 🎥 Amante da MARVEL
+<ul>
+  <li>🕵️‍♂️ <strong>Me chamo Gustavo</strong></li>
+  <li>📖 <strong>3° Ano do Ensino Médio</strong></li>
+  <li>🎥 <strong>Amante da MARVEL</strong></li>
+</ul>
 
 ###
 
@@ -20,11 +22,13 @@
 
 ###
 
-- 🐍 Aprendiz em PYTHON
-- 📐 Matemática
+<ul>
+  <li>🐍 <strong>Aprendiz em PYTHON</strong></li>
+  <li>📐 <strong>Matemática</strong></li>
+</ul>
 
 ###
 
-<div align="left" style="display: inline-block; vertical-align: middle; line-height: 0;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+<div align="left" style="display: inline-block;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
 </div>
