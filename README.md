@@ -24,6 +24,7 @@
 
 <ul>
   <li>🐍 <strong>Aprendiz em PYTHON</strong></li>
+  <li>💽 <strong>Aprendiz em HTML/CSS</strong></li>
   <li>📐 <strong>Matemática</strong></li>
 </ul>
 
@@ -31,4 +32,6 @@
 
 <div align="left" style="display: inline-block;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="html logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="css logo" />
 </div>
