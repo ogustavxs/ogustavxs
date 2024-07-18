@@ -1,37 +1,17 @@
-<h1 align="left">Seja bem-vindo ao meu perfil!</h1>
-
-###
-
-<p align="left">★</p>
-
-###
-
-<h2 align="left">Sobre mim:</h2>
-
-###
-
+<h1 align="center">Bem-vindo ao meu perfil!</h1>
+<h2 align="left">Sobre mim</h2>
 <ul>
-  <li>🕵️‍♂️ <strong>Me chamo Gustavo</strong></li>
-  <li>📖 <strong>3° Ano do Ensino Médio</strong></li>
-  <li>🎥 <strong>Amante da MARVEL</strong></li>
+  <li>🕵️‍♂️ <strong>Meu nome é Gustavo</strong></li>
+  <li>📖 <strong>Estou no 3° ano do Ensino Médio</strong></li>
 </ul>
-
-###
-
-<h3 align="left">Habilidades e Área de estudo:</h3>
-
-###
-
+<h2 align="left">Habilidades e Áreas de Estudo</h2>
 <ul>
-  <li>🐍 <strong>Aprendiz em PYTHON</strong></li>
-  <li>💽 <strong>Aprendiz em HTML/CSS</strong></li>
-  <li>📐 <strong>Matemática</strong></li>
+  <li>🐍 <strong>Estudante de Python</strong></li>
+  <li>💽 <strong>Aprendiz de HTML e CSS</strong></li>
+  <li>📐 <strong>Interesse em Matemática</strong></li>
 </ul>
-
-###
-
-<div align="left" style="display: inline-block;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="html logo" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="40" alt="css logo" />
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50" alt="HTML logo" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" alt="CSS logo" />
 </div>
