@@ -6,8 +6,8 @@
 </ul>
 <h2 align="left">Habilidades e Áreas de Estudo</h2>
 <ul>
-  <li>🐍 <strong>Estudante de Python</strong></li>
-  <li>💽 <strong>Aprendiz de HTML e CSS</strong></li>
+  <li>🖥️ <strong>Estudando FrontEnd</strong></li>
+  <li>💽 <strong>Aprendiz de Python, HTML, CSS e JavaScript</strong></li>
   <li>📐 <strong>Interesse em Matemática</strong></li>
 </ul>
 <div align="center">
