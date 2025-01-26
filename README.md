@@ -2,7 +2,7 @@
 <h2 align="left">Sobre mim</h2>
 <ul>
   <li>🕵️‍♂️ <strong>Meu nome é Gustavo</strong></li>
-  <li>📖 <strong>Estou no 3° ano do Ensino Médio</strong></li>
+  <li>📖 <strong>Técnico em Administração</strong></li>
 </ul>
 <h2 align="left">Habilidades e Áreas de Estudo</h2>
 <ul>
