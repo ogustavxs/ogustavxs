@@ -1,18 +1,43 @@
-<h1 align="center">Bem-vindo ao meu perfil!</h1>
-<h2 align="left">Sobre mim</h2>
-<ul>
-  <li>🕵️‍♂️ <strong>Meu nome é Gustavo</strong></li>
-  <li>📖 <strong>Técnico em Administração</strong></li>
-</ul>
-<h2 align="left">Habilidades e Áreas de Estudo</h2>
-<ul>
-  <li>🖥️ <strong>Engenharia de Software<strong></li>
-  <li>💽 <strong>Aprendiz de Python, HTML, CSS e JavaScript</strong></li>
-  <li>📐 <strong>Interesse em Matemática</strong></li>
-</ul>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python logo" style="margin-right: 20px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="50" alt="HTML logo" style="margin-right: 20px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" height="50" alt="CSS logo"  style="margin-right: 30px;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Javascript_badge.svg/219px-Javascript_badge.svg.png?20160504163251" height="50" alt="JavaScript logo" />
+<h1 align="left">Hey 👋 What's up?</h1>
+
+###
+
+<p align="left">My name is Gustavo and I am a software engineering student.</p>
+
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Learning since 2021<br>📚 I'm currently learning JavaScript, C++ and Python <br>🎯 Goals: Work at a large technology company!</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ogustavxs/ogustavxs/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ogustavxs/ogustavxs/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ogustavxs/ogustavxs/output/pacman-contribution-graph.svg">
+</picture>
+
+###
