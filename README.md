@@ -29,8 +29,8 @@
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ogustavxs&show_icons=true&theme=transparent&text_color=ffffff&title_color=6130ff&icon_color=6130ff" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=ogustavxs&show_icons=true&theme=transparent&text_color=ffffff&title_color=6130ff&icon_color=6130ff" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavxs&theme=transparent&layout=compact" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogustavxs&theme=transparent&layout=compact" />
 </a>
